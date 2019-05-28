@@ -17,7 +17,7 @@ Are listed here, only the projects that are on github. Some repositories may sti
 - [Cascade](https://github.com/N3ROO/Cascade): Java (Android) ~ 19/20
 
 **System programming**:
-- [Customized shell](https://github.com/N3ROO/CustomizedShell): C ~ 14/20
+- Customized shell: C ~ 14/20
 
 **Web programming**
 - [Yahtzee](https://github.com/N3ROO/Yahtzee): HTML/CSS/JS ~ 19/20
