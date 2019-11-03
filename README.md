@@ -48,4 +48,7 @@ Are listed here, only the projects that are on github. Some repositories may sti
 
 ## University of California: Santa Cruz (2019 - 2020)
 
+**Introduction to Artificial Intelligence**:
+- [Pacman project from the Berkeley AI Lab](https://github.com/N3ROO/pacman): Python ~ (26/25, ?/?, ?/?, ?/?) - **private until the end of 2019**
+
 *in progress*
