@@ -49,6 +49,13 @@ Are listed here, only the projects that are on github. Some repositories may sti
 ## University of California: Santa Cruz (2019 - 2020)
 
 **Introduction to Artificial Intelligence**:
-- [Pacman project from the Berkeley AI Lab](https://github.com/N3ROO/pacman): Python ~ (26/25, ?/?, ?/?, ?/?) - **private until the end of 2019**
+- [Pacman project from the Berkeley AI Lab](https://github.com/N3ROO/pacman): Python ~ (26/25, 25/25, 30/30)
+- [Pacman tournament](https://github.com/N3ROO/pacman-ctf): Python ~ (1st run: 1st place, final run: 4th, final grade: 41/40)
+
+**Introduction to Software Engineering**:
+- [RentMyJunk](https://github.com/ntjandra/cse115a): HTML/CSS/JS w/ React & Flask ~ (Final grade: A)
+
+**Computer graphics**:
+- [WebGL assignments](https://github.com/N3ROO/webgl-cse160): Javascript/GLSL ~ (10/10, ?/10, ?/10, ?/10)
 
 *in progress*
